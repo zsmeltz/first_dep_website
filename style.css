@@ -1,10 +1,27 @@
 h1{
     color: green;
     background: black;
+    padding: 20px;
+    width: 200px;
+    margin: 20px;
+    position: fixed
+    
+}
+
+#box{
+    position: 
 }
 
 p{
     font-weight: bold;
+    font-size: 30px;
     color: darkblue;
     font-family: monospace;
+    background-color: lightpink;
+    padding: 20px;
+}
+
+img{
+    border: solid 5px green;
+    width: 800px;
 }
