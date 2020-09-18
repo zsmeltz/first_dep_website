@@ -1,0 +1,10 @@
+h1{
+    color: green;
+    background: black;
+}
+
+p{
+    font-weight: bold;
+    color: darkblue;
+    font-family: monospace;
+}
